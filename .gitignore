@@ -1,0 +1,5 @@
+*.py
+assets/
+venv/
+__pycache__/
+
